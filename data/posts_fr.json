@@ -1,0 +1,186 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Sa mère lui a toujours appris",
+      "body": "Sa mère lui avait toujours appris à ne jamais se considérer comme meilleur que les autres. Il a essayé de vivre selon cette devise. Il n'a jamais méprisé ceux qui avaient moins de chance ou moins d'argent que lui.",
+      "userId": 9
+    },
+    {
+      "id": 2,
+      "title": "Il était expert mais pas dans une discipline",
+      "body": "C'était un expert, mais pas dans une discipline que tout le monde peut apprécier à sa juste valeur. Il savait comment tenir le cône de manière à ce que la crème glacée à la croûte molle y tombe selon l'angle précis pour former un cône parfait à chaque fois. Il avait mis des années à le perfectionner et il pouvait maintenant le faire sans même y penser.",
+      "userId": 13
+    },
+    {
+      "id": 3,
+      "title": "Dave regarde la forêt brûler sur la colline.",
+      "body": "Dave regardait la forêt brûler sur la colline, à quelques kilomètres seulement de sa maison. La voiture avait été emballée à la hâte et Marta était à l'intérieur en train d'essayer de rassembler les derniers animaux domestiques. Dave passa en revue sa liste mentale des papiers et documents les plus importants qu'ils ne pouvaient pas laisser derrière eux. Il se reprocha de ne pas les avoir mieux préparés à l'avance et espéra qu'il s'était souvenu de tout ce qui était nécessaire. Il continua à attendre que Marta apparaisse avec les animaux, mais elle n'était toujours pas là.",
+      "userId": 32
+    },
+    {
+      "id": 4,
+      "title": "Tout ce qu'il voulait, c'était une barre chocolatée.",
+      "body": "Tout ce qu'il voulait, c'était une barre chocolatée. La demande ne semblait pas difficile à comprendre, mais l'employé est resté figé et n'a pas semblé vouloir l'honorer. Cela avait peut-être quelque chose à voir avec l'arme pointée sur son visage.",
+      "userId": 12
+    },
+    {
+      "id": 5,
+      "title": "Ce jour-là, les espoirs et les rêves ont été anéantis.",
+      "body": "Ce jour-là, les espoirs et les rêves ont été anéantis. On aurait dû s'y attendre, mais le choc n'en a pas moins été rude. Les signes avant-coureurs avaient été ignorés au profit de la possibilité, pourtant infime, que cela se produise. Cette possibilité était passée de l'espoir à la conviction indéniable qu'il s'agissait du destin. Jusqu'à ce que ce ne soit pas le cas et que les espoirs et les rêves s'effondrent.",
+      "userId": 41
+    },
+    {
+      "id": 6,
+      "title": "Dave ne sait pas exactement comment il s'est retrouvé dans cette situation.",
+      "body": "Dave ne sait pas exactement comment il s'est retrouvé dans cette situation. Il passa en revue tous les événements qui l'avaient conduit à cette situation, mais cela n'avait toujours pas de sens. Il voulait prendre le temps d'essayer de comprendre, mais il avait d'autres priorités pour le moment. La première était de savoir comment se sortir de sa situation actuelle, à savoir être nu dans un arbre avec de la neige tombant tout autour et sans aucun moyen de descendre.",
+      "userId": 47
+    },
+    {
+      "id": 7,
+      "title": "Il est important de le rappeler.",
+      "body": "Il est important de s'en souvenir. L'amour n'est pas une tarte. Il n'est pas nécessaire de le répartir entre tous les amis et les proches. Quelle que soit la quantité d'amour que vous donnez, vous pouvez toujours en donner plus. L'amour ne s'épuise pas, alors n'essayez pas de vous retenir de le donner comme s'il risquait un jour de s'épuiser. Donnez-le librement et autant que vous le souhaitez.",
+      "userId": 12
+    },
+    {
+      "id": 8,
+      "title": "On peut cuisiner sur et avec un feu ouvert.",
+      "body": "On peut cuisiner sur et avec un feu ouvert. Voici quelques-unes des façons de cuisiner avec du feu à l'extérieur. La cuisson de la viande à l'aide d'une broche est un excellent moyen de cuire la viande de manière uniforme. Pour éviter que la viande ne brûle, il est préférable de la faire tourner lentement.",
+      "userId": 31
+    },
+    {
+      "id": 9,
+      "title": "Il existe différents types de secrets.",
+      "body": "Il y a différents types de secrets. Elle en avait gardé beaucoup au cours de sa vie, mais celui-ci était différent. Elle s'est retrouvée à garder le pire des secrets. C'était le genre de secret qui pouvait vous ronger de l'intérieur si vous n'en parliez pas à quelqu'un, mais qui pouvait finir par vous tuer si vous le faisiez.",
+      "userId": 42
+    },
+    {
+      "id": 10,
+      "title": "Ils se sont précipités vers la sortie.",
+      "body": "Ils se sont précipités vers la sortie, emportant tout ce dont ils pouvaient avoir besoin. Ils n'ont pas eu le temps de vérifier qu'ils ne laissaient pas quelque chose d'important derrière eux. Tout a été jeté dans la voiture et ils ont démarré en trombe. Trente minutes plus tard, ils étaient en sécurité et c'est alors qu'ils se sont rendu compte qu'ils avaient oublié la chose la plus importante de toutes.",
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "title": "Il n'est pas encore temps de paniquer.",
+      "body": "Il n'est pas encore temps de paniquer. Il est encore temps de sauver la situation. C'est du moins ce qu'elle se disait. La réalité était qu'il était temps de paniquer et qu'il n'y avait pas de temps pour sauver la situation, mais il continuait à se faire des illusions en croyant qu'il y en avait.",
+      "userId": 25
+    },
+    {
+      "id": 12,
+      "title": "Elle était consciente que les choses pouvaient mal tourner.",
+      "body": "Elle était consciente que les choses pouvaient mal tourner. En fait, elle s'était entraînée toute sa vie dans l'idée que les choses tourneraient mal un jour. Elle avait une confiance tranquille lorsqu'elle a commencé à voir que c'était le jour où tout son entraînement serait utile. À ce stade, elle n'avait aucune idée de la façon dont les choses allaient tourner mal ce jour-là.",
+      "userId": 26
+    },
+    {
+      "id": 13,
+      "title": "Elle voulait des cheveux arc-en-ciel.",
+      "body": "Elle voulait des cheveux arc-en-ciel. C'est ce qu'elle a dit au coiffeur. Ils devaient être de couleurs arc-en-ciel profondes. Elle n'était pas intéressée par des cheveux arc-en-ciel pastel. Elle les voulait profonds et éclatants pour qu'il n'y ait aucun doute sur le fait qu'elle l'avait fait exprès.",
+      "userId": 44
+    },
+    {
+      "id": 14,
+      "title": "Le papier était vierge.",
+      "body": "Le papier était vierge. Elle n'aurait pas dû l'être. Il aurait dû y avoir de l'écriture sur la feuille, au moins un paragraphe, si ce n'est plus. Le fait qu'il n'y ait pas d'écriture était frustrant. En fait, c'était même plus que frustrant. C'était carrément affligeant.",
+      "userId": 1
+    },
+    {
+      "id": 15,
+      "title": "Les arbres doivent donc être très anciens.",
+      "body": "Les arbres doivent donc être des techniques si anciennes et si primitives qu'ils n'en ont rien fait, les jugeant si insignifiantes que même des sauvages comme nous les connaîtraient et ne s'en méfieraient pas. De plus, ils n'ont probablement pas eu beaucoup de temps après avoir détecté notre orbite et notre intention d'atterrir. Et si c'était vrai, il ne pouvait y avoir qu'un seul endroit où leur civilisation était cachée.",
+      "userId": 15
+    },
+    {
+      "id": 16,
+      "title": "Il n'y avait qu'une seule façon de faire les choses dans la maison des Statton.",
+      "body": "Il n'y avait qu'une seule façon de faire les choses dans la maison des Statton. Il fallait faire exactement ce que le père, Charlie, exigeait. Il prenait les décisions et tout le monde suivait sans poser de questions. Jusqu'à aujourd'hui.",
+      "userId": 31
+    },
+    {
+      "id": 17,
+      "title": "Elle était pressée.",
+      "body": "Elle était pressée. Pas la hâte habituelle quand on est pressé d'aller quelque part, mais une hâte frénétique. Le genre de hâte où quelques secondes peuvent signifier la vie ou la mort. Elle a dévalé la route en ignorant les limitations de vitesse et en se faufilant entre les voitures. Elle n'était plus qu'à quelques minutes de son arrivée lorsque la circulation s'est arrêtée net sur la route devant elle.",
+      "userId": 5
+    },
+    {
+      "id": 18,
+      "title": "Elle avait la terrible habitude de comparer sa vie à celle des autres.",
+      "body": "Elle avait la terrible habitude de comparer sa vie à celle des autres. Elle s'est rendu compte que leurs expériences de vie étaient complètement différentes des siennes et qu'elle ne voyait que ce qu'ils voulaient qu'elle voie, mais cela n'avait pas d'importance. Elle continuait à se comparer et à aspirer à ce qu'elle pensait qu'ils avaient et qu'elle n'avait pas.",
+      "userId": 28
+    },
+    {
+      "id": 19,
+      "title": "La pluie et le vent s'arrêtent brusquement.",
+      "body": "La pluie et le vent se sont brusquement arrêtés, mais le ciel porte encore les tourbillons gris des orages au loin. Dave ne connaissait que trop bien ce sentiment. Le calme avant la tempête. Il ne disposait que d'un temps limité avant que l'enfer ne se déchaîne, mais il s'arrêta pour admirer le calme. Peut-être que ce serait différent cette fois-ci, pensa-t-il, tout en sachant au fond de lui que ce ne serait pas le cas.",
+      "userId": 46
+    },
+    {
+      "id": 20,
+      "title": "Il ne se souvenait plus exactement où il l'avait lu",
+      "body": "Il ne se souvenait plus exactement où il l'avait lu, mais il en était sûr. Le fait qu'elle ne le croit pas est assez frustrant, et il commence à chercher l'article sur Internet. Ce n'était pas quelque chose qui semblait impossible. Pourtant, elle insistait pour toujours voir la source chaque fois qu'il énonçait un fait.",
+      "userId": 38
+    },
+    {
+      "id": 21,
+      "title": "Il a descendu les escaliers et s'est rendu au sous-sol",
+      "body": "Il descendit les escaliers et pénétra dans le sous-sol. Une odeur de renfermé et d'humidité flottait dans l'air. Une seule petite fenêtre laissait passer une lueur d'espoir, mais cela ne faisait qu'accentuer les ombres dans le sous-sol. Il inspira profondément et regarda autour de lui le désordre qui s'était accumulé depuis plus de 25 ans. Il était certain que c'était l'endroit où il voulait vivre.",
+      "userId": 37
+    },
+    {
+      "id": 22,
+      "title": "Elle a déjà vu cette scène.",
+      "body": "Elle a déjà vu cette scène. Elle l'avait déjà vue en rêve à plusieurs reprises. Elle dut se pincer pour s'assurer que ce n'était pas encore un rêve. En serrant ses doigts contre son bras, elle a senti la douleur. C'est cette douleur qui l'a immédiatement réveillée.",
+      "userId": 30
+    },
+    {
+      "id": 23,
+      "title": "Malheureusement, nous n'apprenons pas aux gens à gagner de l'argent.",
+      "body": "Il est regrettable que notre système éducatif n'enseigne pas aux gens comment gagner de l'argent (au-delà d'un emploi de 9 à 5). La vérité est qu'il existe de nombreuses façons différentes et légitimes de gagner de l'argent. Cela ne veut pas dire qu'elles sont faciles et que vous n'aurez pas à travailler dur pour réussir, mais cela signifie que si vous êtes prêt à ouvrir un peu votre esprit, vous n'aurez pas à être coincé dans un bureau de 9 à 5 pour les cinquante prochaines années de votre vie.",
+      "userId": 2
+    },
+    {
+      "id": 24,
+      "title": "Le robot a émis un clic désapprobateur.",
+      "body": "Le robot a émis un clic désapprobateur, a gargouillé brièvement à l'intérieur de son cube et a extrudé un verre à poney de liquide brunâtre. - Monsieur, vous finirez sans doute dans la tombe d'un ivrogne, mort d'une cirrhose hépatique -, m'informa-t-il vertueusement en me rendant ma carte d'identité. J'ai jeté un regard noir en poussant le verre sur la table.",
+      "userId": 34
+    },
+    {
+      "id": 25,
+      "title": "Il est passé par des contorsions si rapides",
+      "body": "Le mouton se contorsionna si rapidement que le petit ours fut obligé de changer de prise si souvent qu'il s'embrouilla dans l'obscurité et ne put dire s'il tenait le mouton à l'endroit ou à l'envers. Mais ce point fut tranché pour lui quelques instants plus tard par l'animal lui-même qui, d'une torsion soudaine, lui enfonça si violemment ses cornes dans les côtes les plus basses qu'il poussa un grognement de colère et de dégoût.",
+      "userId": 27
+    },
+    {
+      "id": 26,
+      "title": "Elle attend patiemment que son numéro soit appelé.",
+      "body": "Elle attend patiemment que son numéro soit appelé. Elle n'avait aucune envie d'être là, mais sa mère avait insisté pour qu'elle y aille. Elle avait d'abord résisté, mais avec le temps, elle s'était rendu compte qu'il était tout simplement plus facile de l'apaiser et d'y aller. Maman avait tendance à être comme ça. Elle insistait jusqu'à ce que vous vous résigniez et fassiez ce qu'elle voulait. Alors, elle est restée assise, attendant patiemment que son numéro soit appelé.",
+      "userId": 27
+    },
+    {
+      "id": 27,
+      "title": "Encore dix pas.",
+      "body": "S'il pouvait faire dix pas de plus, ce serait fini, mais ses jambes ne bougeaient pas. Il essaya de les faire fonctionner, mais elles n'écoutaient pas son cerveau. Dix pas de plus et ce serait fini, mais il ne semblait pas en être capable.",
+      "userId": 17
+    },
+    {
+      "id": 28,
+      "title": "Il avait trois règles simples à respecter.",
+      "body": "Il avait trois règles simples pour vivre. La première était de ne jamais manger de nourriture bleue. Il n'y avait rien de bleu dans la nature qui soit comestible. Les gens posent souvent des questions sur les myrtilles, mais tout le monde sait qu'elles sont en fait violettes. Il savait que c'était l'une des règles les plus étranges à respecter, mais elle l'avait bien servi jusqu'à présent, au cours des plus de 50 ans de sa vie.",
+      "userId": 22
+    },
+    {
+      "id": 29,
+      "title": "La chaise est restée dans le coin où elle se trouvait.",
+      "body": "La chaise est restée dans le coin où elle se trouvait depuis plus de 25 ans. La seule différence, c'est que quelqu'un s'y est assis. Depuis combien de temps quelqu'un n'avait-il pas fait cela ? Dix ans ou plus, imaginait-il. Pourtant, il était impossible de nier la présence de cette personne dans le fauteuil.",
+      "userId": 38
+    },
+    {
+      "id": 30,
+      "title": "Les choses ne vont pas bien du tout",
+      "body": "Les choses ne vont pas bien du tout avec maman aujourd'hui. Elle n'est qu'une nouille molle et veut dormir tout le temps. J'espère que les choses s'amélioreront bientôt.",
+      "userId": 2
+    }
+  ],
+  "total": 30,
+  "skip": 0
+}
